@@ -46,3 +46,8 @@ a:hover{
     overflow: hidden;
     padding-left: 10%;
 }
+@media(max-width:1000px){
+    .show-picture{
+      display: none;
+    }
+  }
